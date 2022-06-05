@@ -1,0 +1,10 @@
+cgitb
+speech_recognition
+pyttsx3
+datetime
+wikipedia
+random
+webbrowser
+tkinter
+turtle
+ImageTk
