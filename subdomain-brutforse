@@ -1,0 +1,29 @@
+
+import requests
+import pyfiglet
+  
+
+
+
+def sub_brut(worllist,domain):
+	sty=pyfiglet.figlet_format("Sub Domain finder")
+	print(sty)
+	for i in worllist:
+		urls=f"https://{i}.{domain}"
+		try:
+			requests.get(urls)
+			print(f"[+] find {urls}")
+		except requests.ConnectionError:
+			pass
+	print("Finish your searh")
+
+
+if __name__=="__main__":
+	
+	domain=input("Enter domain ")
+	worldlist=input("worlist path enter")
+	with open(worldlist,"r") as file:
+		file1=file.read()
+		newfile=file1.splitlines()
+
+		sub_brut(newfile,domain)
