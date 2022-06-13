@@ -5,3 +5,4 @@ python-basic-programs <br />
 [soketimageshere](https://github.com/mrirfankhan/python-basic--programs/tree/main/soketimagesher)<br />
 [keyloggerpython](https://github.com/mrirfankhan/python-basic--programs/blob/main/keylogger.py)<br />
 [calculatorGui](https://github.com/mrirfankhan/python-basic--programs/blob/main/calculator.py)<br />
+[Notepadtexteditor](https://github.com/mrirfankhan/python-basic--programs/blob/main/Notepad.py)<br />
