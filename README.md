@@ -8,5 +8,5 @@ python-basic-programs <br />
 [Notepadtexteditor](https://github.com/mrirfankhan/python-basic--programs/blob/main/Notepad.py)<br />
 [discountfindprice](https://github.com/mrirfankhan/python-basic--programs/blob/main/discount.py)<br />
 [tkinterlognpage](https://github.com/mrirfankhan/python-basic--programs/blob/main/tkloginpage.py)<br />
-[zip file cracker](https://github.com/mrirfankhan/python-basic--programs/blob/main/zipfilecracker.py)
-[STEGANOGRAPHY ](https://github.com/mrirfankhan/python-basic--programs/blob/main/STEGANOGRAPHY.py)
+[zip file cracker](https://github.com/mrirfankhan/python-basic--programs/blob/main/zipfilecracker.py)<br />
+[STEGANOGRAPHY ](https://github.com/mrirfankhan/python-basic--programs/blob/main/STEGANOGRAPHY.py)<br />
